@@ -1,3 +1,3 @@
 # ACLR
-This is the code for:
-Large-Scale Clustering With Anchor-Based Constrained Laplacian Rank', IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), Under Review.
+This is the code for: <br />
+**Zhenyu Ma**, Jingyu Wang, Feiping Nie and Xuelong Li, *Large-Scale Clustering With Anchor-Based Constrained Laplacian Rank*. (submitted to IEEE TKDE)
