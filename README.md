@@ -4,6 +4,6 @@ Zhenyu Ma, Jingyu Wang, Feiping Nie and Xuelong Li, *Large-Scale Clustering With
 
 'ACLR.m' is the main function file.
 
-You can use the running script file 'ACLR_run.m' to perform efficient clustering for three synthetic and eight real-world data sets adopted in manuscript.
+You can run the script file 'ACLR_run.m' to perform efficient clustering for three synthetic and eight real-world data sets used in manuscript. (Notice to add the entire folder into the path)
 
 If you have any questions, please connect <u>zhenyu.ma@mail.nwpu.edu.cn</u>
