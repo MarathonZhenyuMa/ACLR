@@ -1,6 +1,6 @@
 # ACLR
 This is the code for the accepted paper: <br />
-Zhenyu Ma, Jingyu Wang, Feiping Nie and Xuelong Li, *Large-Scale Clustering With Anchor-Based Constrained Laplacian Rank*, IEEE Transactions on Knowledge and Data Engineering.
+Zhenyu Ma, Jingyu Wang, Feiping Nie and Xuelong Li, *Large-Scale Clustering With Anchor-Based Constrained Laplacian Rank*, IEEE Transactions on Knowledge and Data Engineering (TKDE).
 
 'ACLR.m' is the main function file.
 
